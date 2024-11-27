@@ -5,7 +5,7 @@
 &emsp;
 <h3 align="left">Hi 👋, I'm Daniel Fontalva, web developer and philosopher from Spain.</h3>
 
-<h4> PhP and Laravel Projects</h4>
+<h3> PhP and Laravel Projects</h3>
 <a href="https://danielfo684.github.io/Portfolio/">Enlace</a>
 
 &emsp;
@@ -43,7 +43,7 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQL Server]((https://img.shields.io/badge/Microsoft_SQL_Server-CC2927))
+![SQLServer]((https://img.shields.io/badge/Microsoft_SQL_Server-CC2927))
 
 &emsp;
 
@@ -55,7 +55,7 @@
     ![Linkedin: Daniel Fontalva](https://img.shields.io/badge/-dani-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Danielfo684">
-    ![GitHub: Danielfo684](https://img.shields.io/github/followers/antonio?label=follow&style=social)
+    ![GitHub: Danielfo684](https://img.shields.io/github/followers/antonio?label=follow)
 </a>
 
 
